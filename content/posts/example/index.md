@@ -81,7 +81,21 @@ Er erklärt, dass jeder Kassenzettel von Lebensmitteln wie ein Stimmzettel ist. 
 
 Als Brunner die Lebensmittel ablieferte, musterte der Kontrolleur jedes Stück mit kritischem Blick. Alles Unperfekte wurde sofort aussortiert. „Preisabschläge“, murmelte der Kontrolleur, während er fehlerhafte Kartoffeln beiseitelegte. Jeder Makel bedeutete weniger Geld für Brunners harte Arbeit.
 
+> *"Nie hat jemand hineingebissen. Wie viele Nährstoffe dort drin sind, interessiert niemanden im Großhandel. Es ist nicht relevant für den Preis."* 
+>
+> *Stefan Brunner, Gemüseproduzent Eichhof*
 
+
+
+Aus diesem Grund sind die Meisten Bauern darauf angewiesen schöne Lebensmittel zu produzieren, da sie überleben müssen. Konventionelle Lebensmittel werden weiterhin produziert und die Bodenfruchtbarkeit wird weiterhin sinken. Kurz gesagt, ist es unerlässlich, dass sich die Art und Weise der Preisermittlung ändern muss. Auch ist es wichtig, dass die Bauern gebildet werden. Es gibt zu wenige Personen, die wissen, wie Permakultur funktioniert. 
+
+Brunner ist überzeugt davon, dass es realistisch ist, anzunehmen, dass Permakultur und regenerative Landwirtschaft eines Tages in der Schweiz einen bedeutenden Platz einnehmen könnten. Für Brunner ist die Permakultur nicht nur eine Methode, sondern eine Vision einer besseren, nachhaltigeren Zukunft. 
+
+Wenn alles manuell erledigt werden muss, wird es zwangsläufig länger dauern. Die Zukunft dieser Praktiken hängt von der Verfügbarkeit von Permakultur freundliche Maschinen ab, da zu wenig Personen darin geschult sind. Wir müssen viel investieren, um permakulturfreundliche Maschinen zu entwickeln und verfügbar zu machen. Brunner ist überzeugt, dass bei steigender Nachfrage nach Bioprodukten auch die Investitionen in die Bio-Landwirtschaft zunehmen würden. Dies würde die Chancen für die Verbreitung der Permakultur erheblich verbessern. 
+
+ Brunner sieht eine Welt vor sich, in der nachhaltige Praktiken nicht nur eine Option, sondern eine Notwendigkeit sind. Brunners Leidenschaft und Hoffnung sind ansteckend. Es liegt an uns, diesen Traum zu verwirklichen und eine bessere, gesündere Welt für die kommenden Generationen zu schaffen.
+
+Es war merklich kälter geworden, als wir den Brunner Eichhof verließen, umgeben von einer ruhigen, nachdenklichen Atmosphäre. Das warme Licht der untergehenden Sonne tauchte die Felder in ein sanftes Leuchten, während wir über die tiefgründigen Erkenntnisse von Stefan Brunner und die Herausforderungen der Landwirtschaft nachdachten. Mit einem reichen Wissensschatz zu diesen Themen und einem tieferen Verständnis vom Boden kehrten wir nach Hause zurück und ließen unsere Erfahrungen auf uns wirken.
 
 <!--EndFragment-->
 
