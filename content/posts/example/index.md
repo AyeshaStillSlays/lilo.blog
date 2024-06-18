@@ -10,10 +10,10 @@ footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden.
 +++
 
 {{<lead>}}
-In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen.
+So wie sich Menschen dem Klima anpassen müssen, so muss es auch die Landwirtschaft. Mit unfruchtbarer werdenden Flächen und Landwirten, die sich kaum noch anpassen können, gerät der Weg unserer Lebensmittel vom Feld bis zu uns in eine riskante Lage.
 {{</lead>}}
 
-Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
+Eine Reportage von Ayesha Ali und Lorenz Eggimann
 
 # Überschrift 1
 
