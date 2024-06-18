@@ -14,13 +14,17 @@ So wie sich Menschen dem Klima anpassen müssen, so muss es auch die Landwirtsch
 
 Eine Reportage von Ayesha Ali und Lorenz Eggimann
 
-<!--\\\\[if gte mso 9]><xml>
+
+
+
+
+<!--\\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +63,9 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 9]><xml>
+<!--\\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +644,9 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\\\[endif]-->
+</xml><!\\\\\[endif]-->
 
-<!--\\\\[if gte mso 10]>
+<!--\\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,13 +670,9 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\\\[endif]-->
+<!\\\\\[endif]-->
 
 <!--StartFragment-->
-
-
-
-
 
 Seit sechs Generationen liegt das Herz und die Seele der Familie Brunner im Brunner Eichhof. An einem Abend gegen sieben Uhr betreten wir den Hof. Umgeben von glitzernden Feldern und Folienhäusern liegt er vor uns im sanften Licht der untergehenden Sonne. Traktoren stehen bereit, ihre Lackierung glänzt im Licht. Die Felder erstrecken sich in alle Richtungen und sind mit bunten Pflanzen bedeckt, die im sanften Wind tanzen. Die zwei Hunde streifen frei herum und scheinen ihre Freiheit zu genießen.     
 
@@ -685,8 +685,6 @@ Stefan Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf s
 <!--EndFragment-->
 
 ![Schäden auf dem Bauernhof durch den Hagel am 20. Juni 2021](whatsapp-image-2024-06-17-at-7.43.29-pm.jpeg)
-
-
 
 ## Überschrift 2
 
