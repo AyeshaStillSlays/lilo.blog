@@ -24,8 +24,6 @@ Es war ein wunderschöner Tag hier oben, weit weg von den hektischen Geräuschen
 
 Brunner empfängt uns mit einem herzlichen Lächeln, seine Hände noch leicht verschmutzt von der abendlichen Arbeit. Seine Tochter bietet uns frisch gepflückte Erdbeeren an – ein Zeugnis für die Ernte des Tages und die familiäre Beteiligung auf dem Bauernhof. 
 
- 
-
 Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf seinem Hof. Das Motto seines Betriebs lautet: regenerativ, innovativ und adaptiv. Gemeinsam mit seinem Team entwickelt er fortlaufend neue, innovative Methoden für den Betrieb. Im Jahr 2010 übernahm Brunner den Betrieb. Er erinnert sich an eine Zeit, als das Klima noch ausgeglichener war. „Als ich den Betrieb übernahm, hat sich das Klima recht gut angepasst. Natürlich gab es einige Verschiebungen,“ erklärt er. Doch in den letzten fünf Jahren hat sich das drastisch verändert, es gibt nur noch Verschiebungen. „Heute haben wir jeden Sommer eine Hitzewelle. Das Extreme ist zum Normalzustand geworden,“ fügt er hinzu. Ein markantes Beispiel hierfür ist der 20. Juni 2021, als ein unerwartet heftiger Hagelsturm über die Felder zog. „Es hagelte wie verrückt, so etwas erlebt man normalerweise nur alle 20 bis 30 Jahre. Der Schaden war enorm,“ berichtet Brunner. Doch das war nicht das Ende der Herausforderungen. „Nach diesem Tag gab es in diesem Jahr keinen richtigen Sommer mehr,“ erinnert sich Brunner. Pflanzen, die normalerweise im August geerntet werden, erreichten nicht einmal bis Oktober ihre Reife. „Es wurde einfach nicht warm genug,“ klagte er. 
 
 <!--EndFragment-->
@@ -37,8 +35,6 @@ Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf seinem H
 <!--StartFragment-->
 
 Die Auswirkungen des veränderten Klimas sind weitreichend. Wenn der Boden nass ist und man mit dem Traktor darüberfährt, wird der Boden zerstört, indem der Traktor den Boden zusammendruckt und verdichtet. Aufgrund der extremen Wetterveränderungen gibt es nur wenige ideale Tage für die Landwirtschaft, das Zeitfenster wird kürzer. Die Bauern und Bäuerinnen müssen in dieser kurzen Zeitspanne eine enorme Menge Land bewirtschaften. Dafür benötigen sie grosse Traktoren mit viel Leistung und einer hohen Flächenleistung. Diese schweren Maschinen verdichten jedoch den Boden, was dessen Fruchtbarkeit verringert. Ein weiteres Problem besteht darin, dass sich bei feuchtwarmen Bedingungen im Boden die Pilze auf dem Feld ausbreiten können. Das bedeutet, dass stärkere Maschinen benötigt werden, um die Pilze zu bekämpfen. Diese schädigen jedoch den Boden noch mehr. Das nennt Brunner ,,Den Teufelskreis der Landwirtschaft’’.
-
-
 
 ### Das Zentrale der Bodenqualität
 
@@ -54,8 +50,6 @@ Mit Erde aus seinem eigenen Garten in den Händen erklärte Brunner wie unglaubl
 
 Wir sitzen im Garten von Brunner, während sich die Sonne langsam dem Horizont nähert. Brunner zieht sein Messer aus der Tasche und schneidet bedächtig ein Stück Erde aus dem Boden seines Gartens. Er erklärt uns eine Lösung: Anstatt den gesamten Boden zu bearbeiten, entfernt man nur die oberste Schicht von etwa 5–10 cm, bearbeitet oder kultiviert sie und setzt sie wieder ein. Dadurch wird nur der oberste Teil des Bodens bearbeitet, und da der Humus bis zu 25–30 cm tief im Boden reicht, bleibt ein großer Teil des Humus erhalten.
 
- 
-
 ### **Unter dem Teppich**
 
 Mit der Zeit ändert sich auch unsere Ernährung. Die Bevölkerung wächst und es kommt zu Hungersnöten. Infolgedessen entstehen Herbizide, Pestizide und alle Arten von synthetischem Dünger. «Es war genial, eine wirtschaftliche Revolution», sagt Brunner. Nach dieser wirtschaftlichen Revolution gab es enorme Erträge; Lebensmittel wie Kartoffeln verbreiteten sich weltweit. „Ohne all diese Kunstdünger, Pestizide und Ähnliches hätten wir vermutlich nicht den Wohlstand, den wir jetzt haben. Es wäre nicht so schnell gegangen. Wir hätten es schon durch die Hungersnot geschafft, aber es wäre sicher nicht so schnell gegangen.“, stimmt Brunner zu.  
@@ -66,7 +60,10 @@ Deshalb fragen sich viele, ob Bio-Anbau die Lösung ist. Laut Brunner ist immer 
 
 Das ist so, weil der konventionelle Anbau synthetische Chemikalien verwendet, um das Wachstum zu fördern und die Pflanzen zu schützen. Der biologische Anbau vermeidet synthetische Chemikalien und setzt stattdessen auf natürliche Substanzen und Verfahren. Das führt dazu, dass Bio-Obst und -Gemüse höhere Nährstoffwerte und geringere Mengen an giftigen Metallen aufweisen. Viele entscheiden sich aber lieber für das Konventionelle, da es weniger kostet und eine längere Haltbarkeit hat aufgrund von Konservierungsstoffen und anderen Behandlungen. Bioprodukte verderben daher schneller. Allerdings ist von grösster Bedeutung, dass biologische Anbaumethoden die Nährstoffqualität steigern, die Bodengesundheit fördern, indem sie den Humusanteil erhöhen, Wasser sparen und die biologische Vielfalt unterstützen.
 
-
+```
+Permakultur
+Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. Diese Systeme unterstützen das Gedeihen von Pflanzen, Tieren und Menschen, ohne der Umwelt zu schaden. Durch effiziente Nutzung von Ressourcen, Reduzierung von Abfall und die Pflege von Boden und Wasser fördert Permakultur die ökologische Gesundheit. Sie zielt darauf ab, unsere heutigen Bedürfnisse zu erfüllen, während wir gleichzeitig einen gesunden Planeten für kommende Generationen sichern. In der Permakultur wird darauf Wert gelegt, dass manuelle Arbeit so weit wie möglich genutzt wird. Permakultur lehrt uns, im Einklang mit der Natur zu leben und so eine nachhaltige Welt zu gestalten.
+```
 
 <!--EndFragment-->
 
@@ -80,7 +77,7 @@ mso-fareast-language:EN-US;}
 ```
 
 </style>
-<!\\\\\\\\\\\[endif]-->
+<!\\\\\\\\\\\\[endif]-->
 
 <!--StartFragment-->
 
