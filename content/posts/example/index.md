@@ -60,19 +60,6 @@ Deshalb fragen sich viele, ob Bio-Anbau die Lösung ist. Laut Brunner ist immer 
 
 Das ist so, weil der konventionelle Anbau synthetische Chemikalien verwendet, um das Wachstum zu fördern und die Pflanzen zu schützen. Der biologische Anbau vermeidet synthetische Chemikalien und setzt stattdessen auf natürliche Substanzen und Verfahren. Das führt dazu, dass Bio-Obst und -Gemüse höhere Nährstoffwerte und geringere Mengen an giftigen Metallen aufweisen. Viele entscheiden sich aber lieber für das Konventionelle, da es weniger kostet und eine längere Haltbarkeit hat aufgrund von Konservierungsstoffen und anderen Behandlungen. Bioprodukte verderben daher schneller. Allerdings ist von grösster Bedeutung, dass biologische Anbaumethoden die Nährstoffqualität steigern, die Bodengesundheit fördern, indem sie den Humusanteil erhöhen, Wasser sparen und die biologische Vielfalt unterstützen.
 
-```
-Permakultur
-Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. 
-Diese Systeme unterstützen das Gedeihen von Pflanzen, Tieren und Menschen, ohne
-der Umwelt zu schaden. Durch effiziente Nutzung von Ressourcen, Reduzierung von
-Abfall und die Pflege von Boden und Wasser fördert Permakultur die ökologische 
-Gesundheit. Sie zielt darauf ab, unsere heutigen Bedürfnisse zu erfüllen, 
-während wir gleichzeitig einen gesunden Planeten für kommende Generationen 
-sichern. In der Permakultur wird darauf Wert gelegt, dass manuelle Arbeit so 
-weit wie möglich genutzt wird. Permakultur lehrt uns, im Einklang mit der Natur
-zu leben und so eine nachhaltige Welt zu gestalten.
-```
-
 {{<box>}}
 
 Permakultur
