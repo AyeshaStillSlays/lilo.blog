@@ -14,13 +14,13 @@ So wie sich Menschen dem Klima anpassen müssen, so muss es auch die Landwirtsch
 
 Eine Reportage von Ayesha Ali und Lorenz Eggimann
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <o:OfficeDocumentSettings>
   <o:AllowPNG/>
  </o:OfficeDocumentSettings>
-</xml><!\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:WordDocument>
   <w:View>Normal</w:View>
   <w:Zoom>0</w:Zoom>
@@ -59,9 +59,9 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
    <m:intLim m:val="subSup"/>
    <m:naryLim m:val="undOvr"/>
   </m:mathPr></w:WordDocument>
-</xml><!\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\[if gte mso 9]><xml>
+<!--\\\\[if gte mso 9]><xml>
  <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
   DefSemiHidden="false" DefQFormat="false" DefPriority="99"
   LatentStyleCount="376">
@@ -640,9 +640,9 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
   <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
    Name="Smart Link"/>
  </w:LatentStyles>
-</xml><!\\[endif]-->
+</xml><!\\\\[endif]-->
 
-<!--\\[if gte mso 10]>
+<!--\\\\[if gte mso 10]>
 <style>
  /* Style Definitions */
  table.MsoNormalTable
@@ -666,7 +666,7 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
 	mso-ansi-language:EN-US;
 	mso-fareast-language:EN-US;}
 </style>
-<!\\[endif]-->
+<!\\\\[endif]-->
 
 <!--StartFragment-->
 
@@ -679,6 +679,10 @@ Stefan Brunner empfängt uns mit einem herzlichen Lächeln, seine Hände noch le
 Stefan Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf seinem Hof. Das Motto seines Betriebs lautet: regenerativ, innovativ und adaptiv. Gemeinsam mit seinem Team entwickelt er fortlaufend neue, innovative Methoden für den Betrieb. In 2010 übernahm Stefan Brunner den Betrieb. Er erinnert sich an eine Zeit, als das Klima noch ausgeglichener war. „Als ich den Betrieb übernahm, hat sich das Klima recht gut angepasst. Natürlich gab es einige Verschiebungen,“ erklärt er. Doch in den letzten fünf Jahren hat sich das drastisch verändert, es gibt nur noch Verschiebungen. „Heute haben wir jeden Sommer eine Hitzewelle. Das Extreme ist zum Normalzustand geworden,“ fügt er hinzu. Ein markantes Beispiel hierfür ist der 20. Juni 2021, als ein unerwartet heftiger Hagelsturm über die Felder zog. „Es hagelte wie verrückt, so etwas erlebt man normalerweise nur alle 20 bis 30 Jahre. Der Schaden war enorm,“ berichtet Brunner. Doch das war nicht das Ende der Herausforderungen. „Nach diesem Tag gab es in diesem Jahr keinen richtigen Sommer mehr,“ erinnert sich Brunner. Pflanzen, die normalerweise im August geerntet werden, erreichten nicht einmal bis Oktober ihre Reife. „Es wurde einfach nicht warm genug,“ erklärt er.
 
 <!--EndFragment-->
+
+![Schäden auf dem Bauernhof durch den Hagel am 20. Juni 2021](whatsapp-image-2024-06-17-at-7.43.29-pm.jpeg)
+
+
 
 ## Überschrift 2
 
