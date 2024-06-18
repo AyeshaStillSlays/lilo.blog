@@ -65,6 +65,16 @@ Permakultur
 Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. Diese Systeme unterstützen das Gedeihen von Pflanzen, Tieren und Menschen, ohne der Umwelt zu schaden. Durch effiziente Nutzung von Ressourcen, Reduzierung von Abfall und die Pflege von Boden und Wasser fördert Permakultur die ökologische Gesundheit. Sie zielt darauf ab, unsere heutigen Bedürfnisse zu erfüllen, während wir gleichzeitig einen gesunden Planeten für kommende Generationen sichern. In der Permakultur wird darauf Wert gelegt, dass manuelle Arbeit so weit wie möglich genutzt wird. Permakultur lehrt uns, im Einklang mit der Natur zu leben und so eine nachhaltige Welt zu gestalten.
 ```
 
+### **Sicht in die Zukunft**
+
+Laut Brunner ist die Permakultur die Lösung für die aktuellen Herausforderungen in der Landwirtschaft. Der Schwerpunkt dieser nachhaltigen Praxis liegt auf der Regeneration und Bodenfruchtbarkeit, die für die langfristige landwirtschaftliche Produktivität von entscheidender Bedeutung sind.
+
+Er erklärt, dass jeder Kassenzettel von Lebensmitteln wie ein Stimmzettel ist. Das, was nachgefragt wird und genug Geld bekommt, wird natürlich produziert. Das Problem dabei ist, dass beim Einkauf von Lebensmitteln nicht darauf geachtet wird, was sie enthalten, wie gesund sie sind oder wie viele Nährstoffe sie enthalten. 
+
+Als Brunner die Lebensmittel ablieferte, musterte der Kontrolleur jedes Stück mit kritischem Blick. Alles Unperfekte wurde sofort aussortiert. „Preisabschläge“, murmelte der Kontrolleur, während er fehlerhafte Kartoffeln beiseitelegte. Jeder Makel bedeutete weniger Geld für Brunners harte Arbeit.
+
+
+
 <!--EndFragment-->
 
 ## Überschrift 2eme-font:minor-latin;
