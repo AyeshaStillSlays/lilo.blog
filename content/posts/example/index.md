@@ -4,7 +4,7 @@ date = "2024-06-18"
 draft = false
 pinned = false
 tags = ["Klimawandel", "Deutsch", "Reportage", "Klimawandel"]
-image = "/img/default-image.jpg"
+image = "whatsapp-image-2024-06-17-at-7.43.29-pm.jpeg"
 description = "Dieser Artikel thematisiert die Notwendigkeit, dass sich sowohl Menschen als auch die Landwirtschaft an den Klimawandel anpassen müssen. Da Ackerland zunehmend unfruchtbar wird und Landwirte Schwierigkeiten haben, sich anzupassen, gerät die gesamte Lebensmittelversorgungskette in erhebliche Gefahr."
 footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
 +++
