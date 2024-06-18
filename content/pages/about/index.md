@@ -1,7 +1,7 @@
 +++
-title = "Reportage"
+title = "Reportage Gym 2"
 draft = false
-image = "/img/default-author.jpg"
+image = "whatsapp-image-2024-06-17-at-11.33.23-pm.jpeg"
 description = ""
 +++
 ![](/img/default-author.jpg)
