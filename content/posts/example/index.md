@@ -62,7 +62,15 @@ Das ist so, weil der konventionelle Anbau synthetische Chemikalien verwendet,
 
 ```
 Permakultur
-Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. Diese Systeme unterstützen das Gedeihen von Pflanzen, Tieren und Menschen, ohne der Umwelt zu schaden. Durch effiziente Nutzung von Ressourcen, Reduzierung von Abfall und die Pflege von Boden und Wasser fördert Permakultur die ökologische Gesundheit. Sie zielt darauf ab, unsere heutigen Bedürfnisse zu erfüllen, während wir gleichzeitig einen gesunden Planeten für kommende Generationen sichern. In der Permakultur wird darauf Wert gelegt, dass manuelle Arbeit so weit wie möglich genutzt wird. Permakultur lehrt uns, im Einklang mit der Natur zu leben und so eine nachhaltige Welt zu gestalten.
+Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. 
+Diese Systeme unterstützen das Gedeihen von Pflanzen, Tieren und Menschen, ohne
+der Umwelt zu schaden. Durch effiziente Nutzung von Ressourcen, Reduzierung von
+Abfall und die Pflege von Boden und Wasser fördert Permakultur die ökologische 
+Gesundheit. Sie zielt darauf ab, unsere heutigen Bedürfnisse zu erfüllen, 
+während wir gleichzeitig einen gesunden Planeten für kommende Generationen 
+sichern. In der Permakultur wird darauf Wert gelegt, dass manuelle Arbeit so 
+weit wie möglich genutzt wird. Permakultur lehrt uns, im Einklang mit der Natur
+zu leben und so eine nachhaltige Welt zu gestalten.
 ```
 
 ### **Sicht in die Zukunft**
