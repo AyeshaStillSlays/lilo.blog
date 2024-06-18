@@ -50,9 +50,7 @@ Mit Erde aus seinem eigenen Garten in den Händen erklärte Brunner wie unglaubl
 
 Wir sitzen im Garten von Brunner, während sich die Sonne langsam dem Horizont nähert. Brunner zieht sein Messer aus der Tasche und schneidet bedächtig ein Stück Erde aus dem Boden seines Gartens. Er erklärt uns eine Lösung: Anstatt den gesamten Boden zu bearbeiten, entfernt man nur die oberste Schicht von etwa 5–10 cm, bearbeitet oder kultiviert sie und setzt sie wieder ein. Dadurch wird nur der oberste Teil des Bodens bearbeitet, und da der Humus bis zu 25–30 cm tief im Boden reicht, bleibt ein großer Teil des Humus erhalten.
 
-
-
-### **Unter dem Teppich**
+### Unter dem Teppich
 
 Mit der Zeit ändert sich auch unsere Ernährung. Die Bevölkerung wächst und es kommt zu Hungersnöten. Infolgedessen entstehen Herbizide, Pestizide und alle Arten von synthetischem Dünger. ,,Es war genial, eine wirtschaftliche Revolution'', sagt Brunner. Nach dieser ,,wirtschaftlichen Revolution'' gab es enorme Erträge; Lebensmittel wie Kartoffeln verbreiteten sich weltweit. „Ohne all diese Kunstdünger, Pestizide und Ähnliches hätten wir vermutlich nicht den Wohlstand, den wir jetzt haben. Es wäre nicht so schnell gegangen. Wir hätten es schon durch die Hungersnot geschafft, aber es wäre sicher nicht so schnell gegangen.“, stimmt Brunner zu.  
 
@@ -70,9 +68,7 @@ Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. Diese
 
 {{</box>}}
 
-
-
-### **Preisermittlung und Lebensmittelqualität**
+### Preisermittlung und Lebensmittelqualität
 
 Brunner erklärt, dass jeder Kassenzettel von Lebensmitteln wie ein Stimmzettel ist. Das, was nachgefragt wird und genug Geld bekommt, wird natürlich produziert. Das Problem dabei ist, dass beim Einkauf von Lebensmitteln nicht darauf geachtet wird, was sie enthalten, wie gesund sie sind oder wie viele Nährstoffe sie enthalten. 
 
@@ -84,17 +80,13 @@ Als Brunner die Lebensmittel ablieferte, musterte der Kontrolleur jedes Stück m
 
 Aus diesem Grund sind die meisten Bauern darauf angewiesen schöne Lebensmittel zu produzieren, da sie überleben müssen. Konventionelle Lebensmittel werden weiterhin produziert und die Bodenfruchtbarkeit wird weiterhin sinken. Kurz gesagt, ist es unerlässlich, dass sich die Art und Weise der Preisermittlung ändern muss. Auch ist es wichtig, dass die Bauern gebildet werden. Es gibt zu wenige Personen, die wissen, wie Permakultur funktioniert. 
 
-
-
-### **Sicht in die Zukunft**
+### Sicht in die Zukunft
 
 Laut Brunner ist die Permakultur die Lösung für die aktuellen Herausforderungen in der Landwirtschaft. Der Schwerpunkt dieser nachhaltigen Praxis liegt auf der Regeneration und Bodenfruchtbarkeit, die für die langfristige landwirtschaftliche Produktivität von entscheidender Bedeutung sind.
 
 Brunner ist überzeugt davon, dass es realistisch ist, anzunehmen, dass Permakultur und regenerative Landwirtschaft eines Tages in der Schweiz einen bedeutenden Platz einnehmen könnten. Für Brunner ist die Permakultur nicht nur eine Methode, sondern eine Vision einer besseren, nachhaltigeren Zukunft. 
 
 Wenn alles manuell erledigt werden muss, wird es zwangsläufig länger dauern. Die Zukunft dieser Praktiken hängt von der Verfügbarkeit von Permakultur freundliche Maschinen ab, da zu wenig Personen darin geschult sind. Wir müssen viel investieren, um permakulturfreundliche Maschinen zu entwickeln und verfügbar zu machen. Permakultur und Bio-Landwirtschaft priorisieren beide nachhaltige landwirtschaftliche Praktiken, die synthetische Chemikalien vermeiden, die Bodengesundheit durch natürliche Methoden wie Kompostierung und Fruchtfolge betonen und die Biodiversität fördern, um die Resilienz des Ökosystems und langfristige Umweltverantwortung zu stärken. Brunner ist überzeugt, dass bei steigender Nachfrage nach Bio-Produkten auch die Investitionen in die Permakultur zunehmen würden.
-
-
 
 Brunner sieht eine Welt vor sich, in der nachhaltige Praktiken nicht nur eine Option, sondern eine Notwendigkeit sind. Brunners Leidenschaft und Hoffnung sind ansteckend. Es liegt an uns, diesen Traum zu verwirklichen und eine bessere, gesündere Welt für die kommenden Generationen zu schaffen.
 
