@@ -36,6 +36,12 @@ Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf seinem H
 
 Die Auswirkungen des veränderten Klimas sind weitreichend. Wenn der Boden nass ist und man mit dem Traktor darüberfährt, wird der Boden zerstört, indem der Traktor den Boden zusammendruckt und verdichtet. Aufgrund der extremen Wetterveränderungen gibt es nur wenige ideale Tage für die Landwirtschaft, das Zeitfenster wird kürzer. Die Bauern und Bäuerinnen müssen in dieser kurzen Zeitspanne eine enorme Menge Land bewirtschaften. Dafür benötigen sie grosse Traktoren mit viel Leistung und einer hohen Flächenleistung. Diese schweren Maschinen verdichten jedoch den Boden, was dessen Fruchtbarkeit verringert. Ein weiteres Problem besteht darin, dass sich bei feuchtwarmen Bedingungen im Boden die Pilze auf dem Feld ausbreiten können. Das bedeutet, dass stärkere Maschinen benötigt werden, um die Pilze zu bekämpfen. Diese schädigen jedoch den Boden noch mehr. Das nennt Brunner ,,Den Teufelskreis der Landwirtschaft’’.
 
+> *,,Es gibt Kulturen, die wir schon lange hätten säen oder setzen sollen, aber das war einfach nicht möglich, weil es zu nass war.“* 
+>
+> *Stefan Brunner, Gemüseproduzent Eichhof*
+
+
+
 ### Das Zentrale der Bodenqualität
 
 Das Verschwinden verschiedener Anbaukulturen kann für viele Landwirte schwierige Folgen haben. Diese Folgen kommen in der Bodenqualität zum Vorschein.
@@ -49,6 +55,8 @@ Mit Erde aus seinem eigenen Garten in den Händen erklärte Brunner wie unglaubl
 > *Stefan Brunner, Gemüseproduzent*
 
 Wir sitzen im Garten von Brunner, während sich die Sonne langsam dem Horizont nähert. Brunner zieht sein Messer aus der Tasche und schneidet bedächtig ein Stück Erde aus dem Boden seines Gartens. Er erklärt uns eine Lösung: Anstatt den gesamten Boden zu bearbeiten, entfernt man nur die oberste Schicht von etwa 5–10 cm, bearbeitet oder kultiviert sie und setzt sie wieder ein. Dadurch wird nur der oberste Teil des Bodens bearbeitet, und da der Humus bis zu 25–30 cm tief im Boden reicht, bleibt ein großer Teil des Humus erhalten.
+
+
 
 ### Unter dem Teppich
 
