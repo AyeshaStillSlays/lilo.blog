@@ -18,13 +18,13 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
 
 <!--StartFragment-->
 
-Seit sechs Generationen liegt das Herz und die Seele der Familie Brunner im Brunner Eichhof. An einem Abend gegen sieben Uhr betreten wir den Hof. Umgeben von schönen Feldern und Folienhäusern liegt der Hof vor uns im sanften Licht der untergehenden Sonne. Die Felder erstrecken sich in alle Richtungen und sind mit bunten Pflanzen bedeckt, die im sanften Wind tanzen. Die zwei Hunde der Familie streifen frei herum und scheinen ihre Freiheit zu genießen.     
+### Der Brunner Eichhof
 
-Es war ein wunderschöner Tag hier oben, weit weg von den hektischen Geräuschen der Stadt. Der Hof befand sich neben einem Meer aus Feldern. 
+Seit sechs Generationen liegt das Herz und die Seele der Familie Brunner im Brunner Eichhof. An einem Abend gegen sieben Uhr betreten wir den Hof. Umgeben von schönen Feldern und Folienhäusern liegt der Hof vor uns im sanften Licht der untergehenden Sonne. Die Felder erstrecken sich in alle Richtungen und sind mit bunten Pflanzen bedeckt, die im sanften Wind tanzen. Die zwei Hunde der Familie streifen frei herum und scheinen ihre Freiheit zu genießen. Es war ein wunderschöner Tag hier oben, weit weg von den hektischen Geräuschen der Stadt. Der Hof befand sich neben einem Meer aus Feldern. 
 
 Brunner empfängt uns mit einem herzlichen Lächeln, seine Hände noch leicht verschmutzt von der abendlichen Arbeit. Seine Tochter bietet uns frisch gepflückte Erdbeeren an – ein Zeugnis für die Ernte des Tages und die familiäre Beteiligung auf dem Bauernhof. 
 
-Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf seinem Hof. Das Motto seines Betriebs lautet: regenerativ, innovativ und adaptiv. Gemeinsam mit seinem Team entwickelt er fortlaufend neue, innovative Methoden für den Betrieb. Im Jahr 2010 übernahm Brunner den Betrieb. Er erinnert sich an eine Zeit, als das Klima noch ausgeglichener war. „Als ich den Betrieb übernahm, hat sich das Klima recht gut angepasst. Natürlich gab es einige Verschiebungen,“ erklärt er. Doch in den letzten fünf Jahren hat sich das drastisch verändert, es gibt nur noch Verschiebungen. „Heute haben wir jeden Sommer eine Hitzewelle. Das Extreme ist zum Normalzustand geworden,“ fügt er hinzu. Ein markantes Beispiel hierfür ist der 20. Juni 2021, als ein unerwartet heftiger Hagelsturm über die Felder zog. „Es hagelte wie verrückt, so etwas erlebt man normalerweise nur alle 20 bis 30 Jahre. Der Schaden war enorm,“ berichtet Brunner. Doch das war nicht das Ende der Herausforderungen. „Nach diesem Tag gab es in diesem Jahr keinen richtigen Sommer mehr,“ erinnert sich Brunner. Pflanzen, die normalerweise im August geerntet werden, erreichten nicht einmal bis Oktober ihre Reife. „Es wurde einfach nicht warm genug,“ klagte er. 
+Brunner ist Bio-Bauer, Vater von vier Kindern und Geschäftsführer auf seinem Hof. Das Motto seines Betriebs lautet: regenerativ, innovativ und adaptiv. Gemeinsam mit seinem Team entwickelt er fortlaufend neue, innovative Anbaumethoden. Im Jahr 2010 übernahm Brunner den Betrieb. Er erinnert sich an eine Zeit, als das Klima noch ausgeglichener war. „Als ich den Betrieb übernahm, hat sich das Klima recht gut angepasst. Natürlich gab es einige Verschiebungen,“ erklärt er. Doch in den letzten fünf Jahren hat sich das drastisch verändert, es gibt nur noch Verschiebungen. „Heute haben wir jeden Sommer eine Hitzewelle. Das Extreme ist zum Normalzustand geworden,“ fügt er hinzu. Ein markantes Beispiel hierfür ist der 20. Juni 2021, als ein unerwartet heftiger Hagelsturm über die Felder zog. „Es hagelte wie verrückt, so etwas erlebt man normalerweise nur alle 20 bis 30 Jahre. Der Schaden war enorm,“ berichtet Brunner. Doch das war nicht das Ende der Herausforderungen. „Nach diesem Tag gab es in diesem Jahr keinen richtigen Sommer mehr,“ erinnert sich Brunner. Pflanzen, die normalerweise im August geerntet werden, erreichten nicht einmal bis Oktober ihre Reife. „Es wurde einfach nicht warm genug,“ klagte er. 
 
 <!--EndFragment-->
 
@@ -50,9 +50,11 @@ Mit Erde aus seinem eigenen Garten in den Händen erklärte Brunner wie unglaubl
 
 Wir sitzen im Garten von Brunner, während sich die Sonne langsam dem Horizont nähert. Brunner zieht sein Messer aus der Tasche und schneidet bedächtig ein Stück Erde aus dem Boden seines Gartens. Er erklärt uns eine Lösung: Anstatt den gesamten Boden zu bearbeiten, entfernt man nur die oberste Schicht von etwa 5–10 cm, bearbeitet oder kultiviert sie und setzt sie wieder ein. Dadurch wird nur der oberste Teil des Bodens bearbeitet, und da der Humus bis zu 25–30 cm tief im Boden reicht, bleibt ein großer Teil des Humus erhalten.
 
+
+
 ### **Unter dem Teppich**
 
-Mit der Zeit ändert sich auch unsere Ernährung. Die Bevölkerung wächst und es kommt zu Hungersnöten. Infolgedessen entstehen Herbizide, Pestizide und alle Arten von synthetischem Dünger. «Es war genial, eine wirtschaftliche Revolution», sagt Brunner. Nach dieser wirtschaftlichen Revolution gab es enorme Erträge; Lebensmittel wie Kartoffeln verbreiteten sich weltweit. „Ohne all diese Kunstdünger, Pestizide und Ähnliches hätten wir vermutlich nicht den Wohlstand, den wir jetzt haben. Es wäre nicht so schnell gegangen. Wir hätten es schon durch die Hungersnot geschafft, aber es wäre sicher nicht so schnell gegangen.“, stimmt Brunner zu.  
+Mit der Zeit ändert sich auch unsere Ernährung. Die Bevölkerung wächst und es kommt zu Hungersnöten. Infolgedessen entstehen Herbizide, Pestizide und alle Arten von synthetischem Dünger. ,,Es war genial, eine wirtschaftliche Revolution'', sagt Brunner. Nach dieser ,,wirtschaftlichen Revolution'' gab es enorme Erträge; Lebensmittel wie Kartoffeln verbreiteten sich weltweit. „Ohne all diese Kunstdünger, Pestizide und Ähnliches hätten wir vermutlich nicht den Wohlstand, den wir jetzt haben. Es wäre nicht so schnell gegangen. Wir hätten es schon durch die Hungersnot geschafft, aber es wäre sicher nicht so schnell gegangen.“, stimmt Brunner zu.  
 
 Doch das hatte seine Konsequenzen. Durch diese Pestizide und Dünger entstanden verschiedenste Krankheiten. Immer mehr und stärkere Düngemittel werden auf den Boden ausgebracht. „Das ist das Problem, das unter den Teppich gekehrt wird. Und unter dem Teppich, wo man es nicht sieht, wird das Problem grösser und grösser“, sagt Brunner. Alles hängt zusammen: unser Klima, der Boden, unsere Lebensmittel und unsere Gesundheit. Zurückzugehen wird schwierig. Wir sind an einem kritischen Punkt angelangt, wir müssen handeln, bevor es zu spät ist.
 
@@ -68,11 +70,11 @@ Permakultur schafft nachhaltige Systeme, die der Natur nachempfunden sind. Diese
 
 {{</box>}}
 
-### **Sicht in die Zukunft**
 
-Laut Brunner ist die Permakultur die Lösung für die aktuellen Herausforderungen in der Landwirtschaft. Der Schwerpunkt dieser nachhaltigen Praxis liegt auf der Regeneration und Bodenfruchtbarkeit, die für die langfristige landwirtschaftliche Produktivität von entscheidender Bedeutung sind.
 
-Er erklärt, dass jeder Kassenzettel von Lebensmitteln wie ein Stimmzettel ist. Das, was nachgefragt wird und genug Geld bekommt, wird natürlich produziert. Das Problem dabei ist, dass beim Einkauf von Lebensmitteln nicht darauf geachtet wird, was sie enthalten, wie gesund sie sind oder wie viele Nährstoffe sie enthalten. 
+### **Preisermittlung und Lebensmittelqualität**
+
+Brunner erklärt, dass jeder Kassenzettel von Lebensmitteln wie ein Stimmzettel ist. Das, was nachgefragt wird und genug Geld bekommt, wird natürlich produziert. Das Problem dabei ist, dass beim Einkauf von Lebensmitteln nicht darauf geachtet wird, was sie enthalten, wie gesund sie sind oder wie viele Nährstoffe sie enthalten. 
 
 Als Brunner die Lebensmittel ablieferte, musterte der Kontrolleur jedes Stück mit kritischem Blick. Alles Unperfekte wurde sofort aussortiert. „Preisabschläge“, murmelte der Kontrolleur, während er fehlerhafte Kartoffeln beiseitelegte. Jeder Makel bedeutete weniger Geld für Brunners harte Arbeit.
 
@@ -80,16 +82,22 @@ Als Brunner die Lebensmittel ablieferte, musterte der Kontrolleur jedes Stück m
 >
 > *Stefan Brunner, Gemüseproduzent Eichhof*
 
+Aus diesem Grund sind die meisten Bauern darauf angewiesen schöne Lebensmittel zu produzieren, da sie überleben müssen. Konventionelle Lebensmittel werden weiterhin produziert und die Bodenfruchtbarkeit wird weiterhin sinken. Kurz gesagt, ist es unerlässlich, dass sich die Art und Weise der Preisermittlung ändern muss. Auch ist es wichtig, dass die Bauern gebildet werden. Es gibt zu wenige Personen, die wissen, wie Permakultur funktioniert. 
 
 
-Aus diesem Grund sind die Meisten Bauern darauf angewiesen schöne Lebensmittel zu produzieren, da sie überleben müssen. Konventionelle Lebensmittel werden weiterhin produziert und die Bodenfruchtbarkeit wird weiterhin sinken. Kurz gesagt, ist es unerlässlich, dass sich die Art und Weise der Preisermittlung ändern muss. Auch ist es wichtig, dass die Bauern gebildet werden. Es gibt zu wenige Personen, die wissen, wie Permakultur funktioniert. 
+
+### **Sicht in die Zukunft**
+
+Laut Brunner ist die Permakultur die Lösung für die aktuellen Herausforderungen in der Landwirtschaft. Der Schwerpunkt dieser nachhaltigen Praxis liegt auf der Regeneration und Bodenfruchtbarkeit, die für die langfristige landwirtschaftliche Produktivität von entscheidender Bedeutung sind.
 
 Brunner ist überzeugt davon, dass es realistisch ist, anzunehmen, dass Permakultur und regenerative Landwirtschaft eines Tages in der Schweiz einen bedeutenden Platz einnehmen könnten. Für Brunner ist die Permakultur nicht nur eine Methode, sondern eine Vision einer besseren, nachhaltigeren Zukunft. 
 
-Wenn alles manuell erledigt werden muss, wird es zwangsläufig länger dauern. Die Zukunft dieser Praktiken hängt von der Verfügbarkeit von Permakultur freundliche Maschinen ab, da zu wenig Personen darin geschult sind. Wir müssen viel investieren, um permakulturfreundliche Maschinen zu entwickeln und verfügbar zu machen. Brunner ist überzeugt, dass bei steigender Nachfrage nach Bioprodukten auch die Investitionen in die Bio-Landwirtschaft zunehmen würden. Dies würde die Chancen für die Verbreitung der Permakultur erheblich verbessern. 
+Wenn alles manuell erledigt werden muss, wird es zwangsläufig länger dauern. Die Zukunft dieser Praktiken hängt von der Verfügbarkeit von Permakultur freundliche Maschinen ab, da zu wenig Personen darin geschult sind. Wir müssen viel investieren, um permakulturfreundliche Maschinen zu entwickeln und verfügbar zu machen. Permakultur und Bio-Landwirtschaft priorisieren beide nachhaltige landwirtschaftliche Praktiken, die synthetische Chemikalien vermeiden, die Bodengesundheit durch natürliche Methoden wie Kompostierung und Fruchtfolge betonen und die Biodiversität fördern, um die Resilienz des Ökosystems und langfristige Umweltverantwortung zu stärken. Brunner ist überzeugt, dass bei steigender Nachfrage nach Bio-Produkten auch die Investitionen in die Permakultur zunehmen würden.
 
- Brunner sieht eine Welt vor sich, in der nachhaltige Praktiken nicht nur eine Option, sondern eine Notwendigkeit sind. Brunners Leidenschaft und Hoffnung sind ansteckend. Es liegt an uns, diesen Traum zu verwirklichen und eine bessere, gesündere Welt für die kommenden Generationen zu schaffen.
 
-Es war merklich kälter geworden, als wir den Brunner Eichhof verließen, umgeben von einer ruhigen, nachdenklichen Atmosphäre. Das warme Licht der untergehenden Sonne tauchte die Felder in ein sanftes Leuchten, während wir über die tiefgründigen Erkenntnisse von Stefan Brunner und die Herausforderungen der Landwirtschaft nachdachten. Mit einem reichen Wissensschatz zu diesen Themen und einem tieferen Verständnis vom Boden kehrten wir nach Hause zurück und ließen unsere Erfahrungen auf uns wirken.
+
+Brunner sieht eine Welt vor sich, in der nachhaltige Praktiken nicht nur eine Option, sondern eine Notwendigkeit sind. Brunners Leidenschaft und Hoffnung sind ansteckend. Es liegt an uns, diesen Traum zu verwirklichen und eine bessere, gesündere Welt für die kommenden Generationen zu schaffen.
+
+Es war merklich kälter geworden, als wir den Brunner Eichhof verließen, umgeben von einer ruhigen, nachdenklichen Atmosphäre. Das warme Licht der untergehenden Sonne tauchte die Felder in ein sanftes Leuchten, während wir über die tiefgründigen Erkenntnisse von Stefan Brunner und die Herausforderungen der Landwirtschaft nachdachten. Mit einem reichen Wissensschatz zu diesen Themen und einem tieferen Verständnis vom Boden kehrten wir nach Hause zurück und ließen unsere Erfahrungen auf uns wirken.
 
 <!--EndFragment-->
