@@ -670,6 +670,10 @@ Eine Reportage von Ayesha Ali und Lorenz Eggimann
 
 <!--StartFragment-->
 
+
+
+
+
 Seit sechs Generationen liegt das Herz und die Seele der Familie Brunner im Brunner Eichhof. An einem Abend gegen sieben Uhr betreten wir den Hof. Umgeben von glitzernden Feldern und Folienhäusern liegt er vor uns im sanften Licht der untergehenden Sonne. Traktoren stehen bereit, ihre Lackierung glänzt im Licht. Die Felder erstrecken sich in alle Richtungen und sind mit bunten Pflanzen bedeckt, die im sanften Wind tanzen. Die zwei Hunde streifen frei herum und scheinen ihre Freiheit zu genießen.     
 
 Es war ein wunderschöner Tag, an dem die lauten und hektischen Geräusche der Stadt in sehr weiter Ferne schienen. Der Hof befand sich neben ein Meer aus Feldern. 
