@@ -6,7 +6,7 @@ pinned = false
 tags = ["Klimawandel", "Deutsch", "Reportage", "Klimawandel"]
 image = "whatsapp-image-2024-06-17-at-7.43.29-pm.jpeg"
 description = "Dieser Artikel thematisiert die Notwendigkeit, dass sich sowohl Menschen als auch die Landwirtschaft an den Klimawandel anpassen müssen. Da Ackerland zunehmend unfruchtbar wird und Landwirte Schwierigkeiten haben, sich anzupassen, gerät die gesamte Lebensmittelversorgungskette in erhebliche Gefahr."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
+footnotes = ""
 +++
 {{<lead>}}
 **So wie sich Menschen dem Klima anpassen müssen, so muss es auch die Landwirtschaft. Durch die zunehmende Unfruchtbarkeit der Böden, gerät der Weg unserer Lebensmittel vom Feld bis zu uns in eine riskante Lage.**
