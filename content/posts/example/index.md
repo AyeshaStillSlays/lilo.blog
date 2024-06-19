@@ -100,6 +100,6 @@ Wenn alles manuell erledigt werden muss, wird es zwangsläufig länger dauern. D
 
 Brunner sieht eine Welt vor sich, in der nachhaltige Praktiken nicht nur eine Option, sondern eine Notwendigkeit sind. Brunners Leidenschaft und Hoffnung sind ansteckend. Es liegt an uns, diesen Traum zu verwirklichen und eine bessere, gesündere Welt für die kommenden Generationen zu schaffen.
 
-Am Ende des Tages war es merklich kälter geworden, der Erdbeer-kessel fast leer. Der Brunner Eichhof war umgeben von einer ruhigen, nachdenklichen Atmosphäre. Das warme Licht der untergehenden Sonne tauchte die Felder in ein sanftes Leuchten, Erkenntnisse von Stefan Brunner und die Herausforderungen der Landwirtschaft blieben noch stets präsent. Mit einem reichen Wissensschatz zu diesen Themen und einem tieferen Verständnis vom Boden kehrten wir nach Hause zurück und liessen unsere Erfahrungen auf uns wirken.
+Am Ende des Tages war es merklich kälter geworden, der Erdbeerkessel fast leer. Der Brunner Eichhof war umgeben von einer ruhigen, nachdenklichen Atmosphäre. Das warme Licht der untergehenden Sonne tauchte die Felder in ein sanftes Leuchten, Erkenntnisse von Stefan Brunner und die Herausforderungen der Landwirtschaft blieben noch stets präsent. Mit einem reichen Wissensschatz zu diesen Themen und einem tieferen Verständnis vom Boden kehrten wir nach Hause zurück und liessen unsere Erfahrungen auf uns wirken.
 
 <!--EndFragment-->
